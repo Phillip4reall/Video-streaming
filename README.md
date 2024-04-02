@@ -1,6 +1,6 @@
 # video_streaming
 
-A new Flutter project.
+A video streaming app to watch video of your choice.
 
 ## Getting Started
 
