@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195398373541",
+    "project_id": "videostreaming-75615",
+    "storage_bucket": "videostreaming-75615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195398373541:android:653689274b8df8e35c3d4c",
+        "android_client_info": {
+          "package_name": "com.example.video_streaming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr3zcRmp71lR7TlEDJ7UozLhYrtLPcPks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
